@@ -1,9 +1,11 @@
-* {
+/*Applies below functions universally*/
+* { 
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* sets the background color of everything found in 'body'*/
 body {
     background-color: #d9dcd6;
 }
